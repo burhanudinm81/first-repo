@@ -3,5 +3,5 @@ Daftar Belanja:
 - Gula
 - Baking Soda
 - Susu Full Cream
-- Ragi
 - Telur
+- Coklat
